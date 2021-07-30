@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Apps | Startup Exchange at Georgia Tech</title>
+	<atom:link href="/category/apps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Empowering Georgia Tech&#039;s Student Entrepreneurs</description>
+	<lastBuildDate>Fri, 15 May 2020 14:06:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/06/cropped-sxcirclelogo-32x32.png</url>
+	<title>Apps | Startup Exchange at Georgia Tech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Feugiat scelerisque varius nunc faucibus</title>
+		<link>/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/</link>
+					<comments>/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 14:06:43 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[team]]></category>
+		<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/app/?p=273</guid>
+
+					<description><![CDATA[In ornare quam viverra orci sagittis eu volutpat odio facilisis. Commodo nulla facilisi nullam vehicula ipsum. In dictum non consectetur a erat. Dolor purus non enim praesent elementum facilisis. Non sodales neque sodales ut etiam sit amet nisl purus. Consequat semper viverra nam libero. Enim tortor at auctor urna nunc id cursus. Lobortis scelerisque fermentum [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2020/05/15/feugiat-scelerisque-varius-nunc-faucibus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog | Startup Exchange at Georgia Tech</title>
+	<atom:link href="/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Empowering Georgia Tech&#039;s Student Entrepreneurs</description>
+	<lastBuildDate>Thu, 01 Oct 2020 02:47:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/06/cropped-sxcirclelogo-32x32.png</url>
+	<title>Blog | Startup Exchange at Georgia Tech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SameTunes: Compare and Connect through Music!</title>
+		<link>/2020/10/01/sametunes-compare-and-connect-through-music/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2020 02:47:28 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://startup.exchange/?p=1233</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Melon: Rethinking Food Delivery</title>
+		<link>/2020/10/01/1227/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2020 02:43:12 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://startup.exchange/?p=1227</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Revolut Art &#8211; Helping digital artists showcase their work and interact with other artists</title>
+		<link>/2020/08/04/revolut-art-helping-digital-artists-showcase-their-work-and-interact-with-other-artists/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2020 01:30:28 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://startup.exchange/?p=1046</guid>
+
+					<description><![CDATA[Revolut Art is a social media platform focused on helping digital artists showcase their work and get feedback from other artists. 
+
+Check out the platform: https://www.revolutart.com/#home
+
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Knightley &#8211; Making startup funding less complicated</title>
+		<link>/2020/07/26/atlantas-knightley-in-shining-armor/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 26 Jul 2020 17:54:36 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=932</guid>
+
+					<description><![CDATA[One of the barriers for early-stage startups to raise funding is their lack of understanding of due diligence. Knightley is a website that helps startups by organizing all their documentation in one centralized location (their Data Room). Additionally, Knightley serves as a platform for investors to look into startups’ data rooms and to track KPIs before they invest. 
+
+Check them out: https://www.knightley.co/
+]]></description>
+		
+		
+		<enclosure url="/wp-content/uploads/2020/07/KnightleyLandingPage.mp4" length="6820817" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>BestFit Article</title>
+		<link>/2020/07/05/bestfit-article/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 19:01:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://sx.ingagecanada.com/?p=777</guid>
+
+					<description><![CDATA[Imagine that you just got into your dream college. You’ve been working countless hours during your past 4 years of high school to get to this point, and this is the exciting moment that tells you that it all paid off. Now, imagine knowing that there was a 75% chance that you wouldn’t graduate before you even stepped foot on campus. Well, this is a real statistic that applies to low-income, minority, and first-generation students who attend college. This is also the statistic that BestFit hopes to eliminate.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trends | Startup Exchange at Georgia Tech</title>
+	<atom:link href="/category/trends/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Empowering Georgia Tech&#039;s Student Entrepreneurs</description>
+	<lastBuildDate>Tue, 19 May 2020 13:23:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/06/cropped-sxcirclelogo-32x32.png</url>
+	<title>Trends | Startup Exchange at Georgia Tech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Facilisi etiam dignissim diam quis</title>
+		<link>/2020/05/19/facilisi-etiam-dignissim-diam-quis/</link>
+					<comments>/2020/05/19/facilisi-etiam-dignissim-diam-quis/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 May 2020 13:23:45 +0000</pubDate>
+				<category><![CDATA[Trends]]></category>
+		<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/app/?p=345</guid>
+
+					<description><![CDATA[Phasellus egestas tellus rutrum tellus. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Imperdiet dui accumsan sit amet nulla. Ac felis donec et odio pellentesque diam volutpat commodo sed. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Sit amet volutpat consequat mauris. Facilisi [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2020/05/19/facilisi-etiam-dignissim-diam-quis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dolor purus non enim praesent elementum facilisis</title>
+		<link>/2020/05/15/dolor-purus-non-enim-praesent-elementum-facilisis/</link>
+					<comments>/2020/05/15/dolor-purus-non-enim-praesent-elementum-facilisis/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 15 May 2020 14:04:47 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[hype]]></category>
+		<guid isPermaLink="false">https://demo.creativethemes.com/blocksy/app/?p=270</guid>
+
+					<description><![CDATA[Nulla pharetra diam sit amet nisl. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam. Quis commodo odio aenean sed adipiscing diam donec. Proin fermentum leo vel orci porta non. Massa id neque aliquam vestibulum morbi. Id ornare arcu odio ut sem. Scelerisque eleifend donec pretium vulputate. Et sollicitudin ac orci phasellus egestas tellus [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2020/05/15/dolor-purus-non-enim-praesent-elementum-facilisis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
